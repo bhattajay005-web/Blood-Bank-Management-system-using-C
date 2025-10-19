@@ -1,2 +1,11 @@
 # Blood-Bank-Management-system-using-C
-This is our project for PBL organise  by our university GEHU we member of team  Devbhoomi Coder  
+Objective
+-To implement the Data Structres concept in real world application.
+About
+-This is our project for PBL organise  by our university GEHU we are the members of Team Devbhoomi Coder.We are 3 semester Students of Btech CSE,We created this under the guidance of our mentor.
+Added a section in README.md to describe each team member’s role and contribution to the project.
+- Ajay Bhatt: 
+- Himanshu Jayara: 
+- Anuj Negi:
+- Kanishka Gupta: 
+
